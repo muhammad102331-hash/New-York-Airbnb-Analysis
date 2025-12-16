@@ -9,6 +9,8 @@ The goal of this project is to:
 - Detect potential outliers in prices.
 - Provide recommendations for guests and hosts based on insights.
 
+![Airbnb](https://github.com/muhammad102331-hash/New-York-Airbnb-Analysis/blob/main/Airbnb.png?raw=true)
+
 ## Dataset
 
 The dataset contains 20,765 entries and 22 features, including:
